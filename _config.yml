@@ -2,12 +2,19 @@
 #
 # This config file is meant for settings that affect your whole blog.
 #
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+#
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
+
+#site settings
 title: Simone-Mingozzi
-description: A woah attribute. WOW
+description: Fusion Engineer and Liquid Metal Modeler
 github_username: simone-mingozzi
 
 # Email and twitter are optional:
